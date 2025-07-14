@@ -57,3 +57,8 @@ The dataset includes the following key columns:
    ```bash
    git clone https://github.com/mangal-singh001/Netflix_Movie_Data_Analysis.git
    cd Netflix_Movie_Data_Analysis
+
+🙋‍♂️ Connect With Me
+🔗 https://www.linkedin.com/in/mangal-singh123/
+
+💻 https://github.com/mangal-singh001
